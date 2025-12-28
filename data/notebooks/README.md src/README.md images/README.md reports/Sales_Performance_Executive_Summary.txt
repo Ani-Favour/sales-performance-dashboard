@@ -1,0 +1,21 @@
+
+Sales Performance Dashboard – Executive Summary
+
+This project presents a detailed analysis of sales performance across multiple years.
+It evaluates revenue, order volume, quantity sold, discount behavior, customer segments,
+product categories, and geographic distribution.
+
+Key Highlights:
+- Total Sales Revenue: $2.30M
+- Orders: 5,009
+- Quantity Sold: 37,873 units
+- Average Discount: 15.62%
+
+Insights:
+- Consumer segment is the dominant revenue contributor.
+- California leads with 19.9% of total sales.
+- Revenue shows seasonal peaks toward the end of the year.
+
+Business Impact:
+The dashboard enables data-driven decision-making, supports strategic planning,
+and is suitable for executive reporting, client presentations, and professional portfolios.
